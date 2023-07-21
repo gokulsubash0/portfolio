@@ -19,7 +19,7 @@ const subheadingsData = {
         <>
           <p>
           BACHELOR OF TECHNOLOGY IN COMPUTER SCIENCE AND ENGINEERING from
-          University College of Engineering, Thodupuzha (2019 -2023)
+          University College of Engineering, Thodupuzha (2019 -2023) with overall: 7.05 CGPA 
 
 
           </p>
